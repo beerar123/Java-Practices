@@ -1,0 +1,12 @@
+package javapractice;
+
+public class Loopsexecuting {
+	public static void main (String args[]){
+		
+		for(int i = 10 ; i>20; i++){
+			
+			System.out.println("i vlaue will be" +i);
+			
+		}
+}
+}
